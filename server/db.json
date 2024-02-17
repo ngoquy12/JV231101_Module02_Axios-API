@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": "24179d46-c8a6-40ef-ad77-ea5891961fa5",
+      "user_name": "Ngọ Văn Quý",
+      "email": "quy@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "eb00b3cb-d3bb-4d12-ab28-a475f5ad3baf",
+      "user_name": "Nguyễn Văn A",
+      "email": "nva@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "612143e5-5f25-4570-b311-b9c001749d0e",
+      "user_name": "Nguyễn Thị An",
+      "email": "nvan@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "c28e41f2-8c9e-4161-9802-7b619350e785",
+      "user_name": "Nguyễn Văn Hưng",
+      "email": "hung@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "a750ac76-ac9b-496f-b26e-532406e4ac42",
+      "user_name": "Nguyễn Văn Hưng",
+      "email": "hung@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "85857fc2-de87-45f3-8c41-317442f8e7e5",
+      "user_name": "Nguyễn Văn Hưng",
+      "email": "hung@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "54ea9c2c-a4e1-49eb-8caa-baf9758d6025",
+      "user_name": "Hùng",
+      "email": "hnung@gmail.com",
+      "password": "12345"
+    }
+  ]
+}
